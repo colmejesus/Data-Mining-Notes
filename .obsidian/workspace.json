@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Introduction To Data Mining.md",
+                "file": "21. Data Integration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5365b39bd88d47ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "22. Dimensionality Reduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a85ff18a1b7e27cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "23. Data Transformation.md",
                 "mode": "source",
                 "source": false
               }
@@ -248,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -314,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21. Data Integration.md",
+                "file": "23. Data Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21. Data Integration.md",
+                "file": "23. Data Transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21. Data Integration.md"
+                "file": "23. Data Transformation.md"
               }
             }
           }
@@ -376,17 +400,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b5db9555b19a5146",
+  "active": "a85ff18a1b7e27cc",
   "lastOpenFiles": [
-    "20. Data Preprocessing.md",
+    "22. Dimensionality Reduction.md",
     "21. Data Integration.md",
-    "19. Measuring Data Similarity and Dissimilarity.md",
+    "20. Data Preprocessing.md",
     "18. Graphical Displays of Statistical Data and Its Description.md",
-    "17. Measuring the Dispersion of Data in Data Mining.md",
-    "16. Knowing About Data - Terms Used in Data Mining.md",
+    "19. Measuring Data Similarity and Dissimilarity.md",
+    "Attachments/ERDiagramsInDBMS_1.jpg",
     "15. Data Warehouses in Detail.md",
     "14. Major issues with DM.md",
-    "13. Technologies Used in Data Mining.md",
-    "12. Techniques Used in Data Mining.md"
+    "06. Transactional Data and Other Kinds Of Data Mined.md",
+    "01. Introduction To Data Mining.md"
   ]
 }
