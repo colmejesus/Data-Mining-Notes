@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21. Data Integration.md",
+                "file": "10. Frequent Patterns Mining or Association mining (d).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0845b2c8ca52f69b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24. Frequent Pattern Mining - Association Rule Form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7cbaa2e910efa56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24. Frequent Pattern Mining - Association Rule Form.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,6 +65,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "0c2b791cb970ca15",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -338,7 +370,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "23. Data Transformation.md",
+                "file": "24. Frequent Pattern Mining - Association Rule Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +387,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "23. Data Transformation.md",
+                "file": "24. Frequent Pattern Mining - Association Rule Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +410,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "23. Data Transformation.md"
+                "file": "24. Frequent Pattern Mining - Association Rule Form.md"
               }
             }
           }
@@ -400,17 +432,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a85ff18a1b7e27cc",
+  "active": "f7cbaa2e910efa56",
   "lastOpenFiles": [
-    "22. Dimensionality Reduction.md",
+    "25. Apriori Algorithm.md",
+    "24. Frequent Pattern Mining - Association Rule Form.md",
+    "23. Data Transformation.md",
+    "10. Frequent Patterns Mining or Association mining (d).md",
     "21. Data Integration.md",
+    "22. Dimensionality Reduction.md",
     "20. Data Preprocessing.md",
     "18. Graphical Displays of Statistical Data and Its Description.md",
     "19. Measuring Data Similarity and Dissimilarity.md",
-    "Attachments/ERDiagramsInDBMS_1.jpg",
-    "15. Data Warehouses in Detail.md",
-    "14. Major issues with DM.md",
-    "06. Transactional Data and Other Kinds Of Data Mined.md",
-    "01. Introduction To Data Mining.md"
+    "Attachments/ERDiagramsInDBMS_1.jpg"
   ]
 }
