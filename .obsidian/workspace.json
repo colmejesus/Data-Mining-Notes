@@ -8,303 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a82df193644e4f45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Frequent Patterns Mining or Association mining (d).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0845b2c8ca52f69b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24. Frequent Pattern Mining - Association Rule Form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7cbaa2e910efa56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "24. Frequent Pattern Mining - Association Rule Form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5365b39bd88d47ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "22. Dimensionality Reduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a85ff18a1b7e27cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "23. Data Transformation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c2b791cb970ca15",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3c12ae6a778e5fbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Knowledge Discovery in Database Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5e860d25b81db3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "17. Measuring the Dispersion of Data in Data Mining.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9e22e5c72e2ad15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "18. Graphical Displays of Statistical Data and Its Description.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e9690b121c4d077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "19. Measuring Data Similarity and Dissimilarity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcc511086aacdb2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20. Data Preprocessing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "018d9e2c77987275",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "21. Data Integration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34d0398885fd3361",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04. Relational Databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94d2e79f59c1acca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05. Data Warehouse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de2dc8096275fb5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06. Transactional Data and Other Kinds Of Data Mined.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2655b395859934b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07. Patterns in Data Mining.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c06d7e39458c129f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08. Cluster Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dae3a6837de34480",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09. Outlier Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e82c18671c88bca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Frequent Patterns Mining or Association mining (d).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c234ce0e5f10766",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11. Classification and Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d991bf67cc60f77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12. Techniques Used in Data Mining.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7444b428adb24389",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Technologies Used in Data Mining.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb5e4aaa6b542242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14. Major issues with DM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43dba1c63d4f0bb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "15. Data Warehouses in Detail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3757c0ff174a766e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "17. Measuring the Dispersion of Data in Data Mining.md",
+                "file": "26. FP Growth Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -370,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24. Frequent Pattern Mining - Association Rule Form.md",
+                "file": "26. FP Growth Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -387,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "24. Frequent Pattern Mining - Association Rule Form.md",
+                "file": "26. FP Growth Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -410,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24. Frequent Pattern Mining - Association Rule Form.md"
+                "file": "26. FP Growth Algorithm.md"
               }
             }
           }
@@ -432,14 +147,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f7cbaa2e910efa56",
+  "active": "0845b2c8ca52f69b",
   "lastOpenFiles": [
     "25. Apriori Algorithm.md",
-    "24. Frequent Pattern Mining - Association Rule Form.md",
     "23. Data Transformation.md",
-    "10. Frequent Patterns Mining or Association mining (d).md",
-    "21. Data Integration.md",
     "22. Dimensionality Reduction.md",
+    "21. Data Integration.md",
+    "24. Frequent Pattern Mining - Association Rule Form.md",
+    "17. Measuring the Dispersion of Data in Data Mining.md",
+    "15. Data Warehouses in Detail.md",
+    "10. Frequent Patterns Mining or Association mining (d).md",
+    "26. FP Growth Algorithm.md",
     "20. Data Preprocessing.md",
     "18. Graphical Displays of Statistical Data and Its Description.md",
     "19. Measuring Data Similarity and Dissimilarity.md",
