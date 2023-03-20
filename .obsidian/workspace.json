@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6720ec46bee333a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24. Frequent Pattern Mining - Association Rule Form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26. FP Growth Algorithm.md",
+                "file": "24. Frequent Pattern Mining - Association Rule Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26. FP Growth Algorithm.md",
+                "file": "24. Frequent Pattern Mining - Association Rule Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26. FP Growth Algorithm.md"
+                "file": "24. Frequent Pattern Mining - Association Rule Form.md"
               }
             }
           }
@@ -147,9 +160,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0845b2c8ca52f69b",
+  "active": "d6720ec46bee333a",
   "lastOpenFiles": [
     "25. Apriori Algorithm.md",
+    "26. FP Growth Algorithm.md",
+    "27. Association Rule Mining - Corelation Measure (Lift).md",
     "23. Data Transformation.md",
     "22. Dimensionality Reduction.md",
     "21. Data Integration.md",
@@ -157,7 +172,6 @@
     "17. Measuring the Dispersion of Data in Data Mining.md",
     "15. Data Warehouses in Detail.md",
     "10. Frequent Patterns Mining or Association mining (d).md",
-    "26. FP Growth Algorithm.md",
     "20. Data Preprocessing.md",
     "18. Graphical Displays of Statistical Data and Its Description.md",
     "19. Measuring Data Similarity and Dissimilarity.md",
